@@ -1,4 +1,4 @@
-# GPT Web Assistant
+# Web Whispers: GPT Web Assistant
 
 ## Overview
 
